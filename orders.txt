@@ -1,0 +1,28 @@
+Order for: Daniel
+Tuna Bowl - $12.99
+Chicken Bowl - $11.99
+Basil Chicken Sandwich - $7.99
+Total: $32.97
+Order for: Jose
+Pepe Pizza - $9.99
+Total: $9.99
+Order for: luis
+Bahnmi Sandwich - $8.99
+Total: $8.99
+Order for: Joseph
+Basil Chicken Sandwich - $7.99
+Cheese Pizza - $6.99
+Tea - $4.0
+Powerade - $3.5
+Pesto Sandwich - $6.99
+Total: $29.47
+Order for: Daniel
+Cheese Pizza - $6.99
+Cheese Pizza - $6.99
+Cheese Pizza - $6.99
+Cheese Pizza - $6.99
+Cheese Pizza - $6.99
+Chicken Bowl - $11.99
+Chicken Bowl - $11.99
+Chicken Bowl - $11.99
+Total: $70.92
